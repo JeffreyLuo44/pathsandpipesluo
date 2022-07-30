@@ -1,0 +1,18 @@
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Assignment 2 Jeffrey Luo\Assignment 2 Jeffrey Luo\bin\Debug\Assignment 2 Jeffrey Luo.exe.config
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Assignment 2 Jeffrey Luo\Assignment 2 Jeffrey Luo\bin\Debug\Assignment 2 Jeffrey Luo.exe
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Assignment 2 Jeffrey Luo\Assignment 2 Jeffrey Luo\bin\Debug\Assignment 2 Jeffrey Luo.pdb
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Assignment 2 Jeffrey Luo\Assignment 2 Jeffrey Luo\obj\Debug\Assignment 2 Jeffrey Luo.csprojAssemblyReference.cache
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Assignment 2 Jeffrey Luo\Assignment 2 Jeffrey Luo\obj\Debug\Assignment_2_Jeffrey_Luo.Properties.Resources.resources
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Assignment 2 Jeffrey Luo\Assignment 2 Jeffrey Luo\obj\Debug\Assignment 2 Jeffrey Luo.csproj.GenerateResource.cache
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Assignment 2 Jeffrey Luo\Assignment 2 Jeffrey Luo\obj\Debug\Assignment 2 Jeffrey Luo.exe
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Assignment 2 Jeffrey Luo\Assignment 2 Jeffrey Luo\obj\Debug\Assignment 2 Jeffrey Luo.pdb
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Assignment 2 Jeffrey Luo\Assignment 2 Jeffrey Luo\obj\Debug\Assignment_2_Jeffrey_Luo.Form.resources
+C:\Users\jl627\Downloads\Assignment 2 Jeffrey Luo\Assignment 2 Jeffrey Luo\bin\Debug\Assignment 2 Jeffrey Luo.exe.config
+C:\Users\jl627\Downloads\Assignment 2 Jeffrey Luo\Assignment 2 Jeffrey Luo\bin\Debug\Assignment 2 Jeffrey Luo.exe
+C:\Users\jl627\Downloads\Assignment 2 Jeffrey Luo\Assignment 2 Jeffrey Luo\bin\Debug\Assignment 2 Jeffrey Luo.pdb
+C:\Users\jl627\Downloads\Assignment 2 Jeffrey Luo\Assignment 2 Jeffrey Luo\obj\Debug\Assignment 2 Jeffrey Luo.csprojAssemblyReference.cache
+C:\Users\jl627\Downloads\Assignment 2 Jeffrey Luo\Assignment 2 Jeffrey Luo\obj\Debug\Assignment_2_Jeffrey_Luo.Form.resources
+C:\Users\jl627\Downloads\Assignment 2 Jeffrey Luo\Assignment 2 Jeffrey Luo\obj\Debug\Assignment_2_Jeffrey_Luo.Properties.Resources.resources
+C:\Users\jl627\Downloads\Assignment 2 Jeffrey Luo\Assignment 2 Jeffrey Luo\obj\Debug\Assignment 2 Jeffrey Luo.csproj.GenerateResource.cache
+C:\Users\jl627\Downloads\Assignment 2 Jeffrey Luo\Assignment 2 Jeffrey Luo\obj\Debug\Assignment 2 Jeffrey Luo.exe
+C:\Users\jl627\Downloads\Assignment 2 Jeffrey Luo\Assignment 2 Jeffrey Luo\obj\Debug\Assignment 2 Jeffrey Luo.pdb
